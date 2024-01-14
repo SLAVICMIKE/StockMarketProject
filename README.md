@@ -1,6 +1,5 @@
 # Stock Market Research Project
 
-![stock_dashboard]([https://github.com/huseyincenik/spreadsheets/assets/127469334/2d72b287-fb86-4fdd-a7f0-26826eaae1e8](https://tse4.mm.bing.net/th?id=OIP.JZ4eeXIhIhS-1Np-tUOr1gHaEK&pid=Api&P=0&h=220))
 
 
 ## Overview
