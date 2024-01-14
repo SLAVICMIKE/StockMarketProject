@@ -22,7 +22,7 @@ This study has facilitated real-time access to the descriptions, CEOs, headquart
 - Alphabet Inc Class A
 - Apple Inc
 
-This access has been achieved through the Google Finance function and Google Sheets scripting features. Additionally, current and historical stock market data of these companies has been retrieved from Google Finance and Yahoo Finance websites, accelerating the analysis and decision-making processes.
+This access has been achieved through the Google Finance function and Google Sheets scripting features. Additionally, current and historical stock market data of these companies has been retrieved from Google Finance websites, accelerating the analysis and decision-making processes.
 
 ## Technologies Used
 
