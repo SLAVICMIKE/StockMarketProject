@@ -9,7 +9,18 @@ Effectively overseeing financial analysis and investment procedures holds signif
 
 This study has facilitated real-time access to the descriptions, CEOs, headquarter locations, websites, employee numbers, sector, and industry information of specific companies, including:
 
-- 
+- Chesapeake Energy Ord Shs
+- Marathon Oil Corp
+- Devon Energy Corp
+- Diamondback Energy Inc
+- Chevron Corporation
+- Bank of America Corp
+- Tesla Inc
+- Meta Platforms Inc
+- Amazon.com Inc
+- Microsoft Corp
+- Alphabet Inc Class A
+- Apple Inc
 
 This access has been achieved through the Google Finance function and Google Sheets scripting features. Additionally, current and historical stock market data of these companies has been retrieved from Google Finance and Yahoo Finance websites, accelerating the analysis and decision-making processes.
 
